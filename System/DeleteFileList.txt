@@ -1,8 +1,0 @@
-17
-.\newRF.cab_CRCDATA_
-.\newRF.cab_DOWN_
-.\DownEngineSDK.dll
-.\LauncherVer.txt
-.\Patchinfo.z
-
-
